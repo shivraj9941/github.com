@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en" oncontextmenu="return true">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>danté. | Priyobroto - MyWebsite</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;600&display=swap" rel="stylesheet">
+    <link href="css/mobile.css" rel="stylesheet" media="screen and (max-width: 425px)">
+    <link rel="icon" href="Images/My Poster Pfp.png" type="image/png">
+    
+</head>
+
+<body>
+    <div class="circle1 transtion"></div>
+    <div class="circle2 transtion"></div>
+    <div class="container">
+        <!-- <div class="noise">
+            <img src="/Images/noise.svg" alt="" srcset="">
+        </div> -->
+        <div class="about transitionslow">
+
+            <div class="name">
+                Danté
+            </div>
+
+            <div class="mainbox">
+                <div class="image">
+                    <img src="Images/pfp.png" alt="" srcset="">
+
+                </div>
+                <div class="content">
+                    <div class="title">
+                        About
+                    </div>
+
+                    <div class="bio">
+                        I am a regular high-school student, trying to learn how to make websites and programming, I am
+                        striving
+                        to constantly improve myself in the field of technology. i love music and watching films. I
+                        hope
+                        to continue developing my skills in technology as I make my way into college.
+                    </div>
+
+                    <div class="links">
+                        <div><i class="fa-solid fa-mars"></i>
+                            He/Him
+                        </div>
+                        <div><i class="fa-solid fa-location-dot"></i>
+                            <a href="https://goo.gl/maps/SE3bbggLiaxfm8h66">Kolkata,West Bengal</a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="footer">
+                <div class="icons">
+                    <ul><a href=""><i
+                                class="fa-brands fa-discord"></i></a>
+
+                        <div class="pipe"></div>
+
+                        <a href=""><i class="fa-brands fa-instagram"></i></a>
+                        
+                        <div class="pipe"></div>
+
+                        <a href=""><i
+                                class="fa-brands fa-youtube"></i></a>
+                        <div class="pipe"></div>
+
+                        <a href=""><i class="fa-brands fa-twitter"></i></a>
+
+                        <div class="pipe"></div>
+
+                        <a href=""><i
+                                class="fa-brands fa-spotify"></i></a>
+
+                        <div class="pipe"></div>
+
+                        <a
+                            href=""><i
+                                class="fa-solid fa-envelope"></i></a>
+
+
+
+                    </ul>
+
+                </div>
+
+            </div>
+            
+            <div class="nav">
+                <div class="button nextbtn"><i class="fa-solid fa-angle-right"></i></div>
+            </div>
+        </div>
+        <div class="projects transitionslow">
+
+
+
+            <div class="mainbox">
+
+                <div class="content">
+                    <div class="title">
+                        Projects
+                    </div>
+                    <div class="boxes">
+                        <div class="box transition" id="xaviershigh">
+                            <div class="avatar">
+                                <img class="transition" src="Images/Projects/finaliconxh.png" alt="" srcset="">
+                            </div>
+
+                            <div class="boxcontent transition">
+                                <h3 class="boxtitle">Xavier's High</h3>
+                                Discord Server of the Youngstars
+                                <button class="btn transition">
+                                    <a href="https://discord.gg/jDkWxnUzEZs">Read More</a>
+                                    
+                                </button>
+                            </div>
+                        </div>
+
+                        <div class="box transition" id="github">
+                            <div class="avatar">
+                                <img class="transition" src="Images/Projects/github.png" alt="" srcset="">
+                            </div>
+
+                            <div class="boxcontent transition">
+                                <h3 class="boxtitle">GitHub</h3>
+                                Showcasing all my web projects so far!
+                                <button class="btn transition">
+                                    <a href="https://github.com/PriyoBROTO04">Read More</a>
+                                    
+                                </button>
+                            </div>
+                        </div>
+                        
+                        
+                    </div>
+
+
+
+                    
+                </div>
+            </div>
+            <div class="nav">
+                <div class="button backbtn"><i class="fa-solid fa-angle-left"></i></div>
+            </div>
+
+        </div>
+    </div>
+</body>
+<script src="https://kit.fontawesome.com/0fefc49e08.js" crossorigin="anonymous"></script>
+<script src="script/script.js"></script>
+
+
+</html>
